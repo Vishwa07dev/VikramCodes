@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="" />
+    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TreeAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1kPZCvOREWkMNwq1QSxUnFvtlIG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,7 +95,18 @@
       <workItem from="1605753514568" duration="474000" />
       <workItem from="1605812208221" duration="588000" />
       <workItem from="1606109943936" duration="586000" />
-      <workItem from="1606161625675" duration="1929000" />
+      <workItem from="1606161625675" duration="3294000" />
+      <workItem from="1606319770118" duration="332000" />
+      <workItem from="1606462662061" duration="336000" />
+      <workItem from="1606481178848" duration="187000" />
+      <workItem from="1606592982807" duration="799000" />
+      <workItem from="1606840843337" duration="80000" />
+      <workItem from="1606840958146" duration="595000" />
+      <workItem from="1607508559700" duration="321000" />
+      <workItem from="1607741969934" duration="421000" />
+      <workItem from="1607824302552" duration="9000" />
+      <workItem from="1607824396032" duration="77000" />
+      <workItem from="1607918357594" duration="251000" />
     </task>
     <servers>
       <JIRA url="https://jira01.corp.linkedin.com:8443">
@@ -106,22 +128,26 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606215309039" />
-    <state width="1636" height="288" key="GridCell.Tab.0.bottom" timestamp="1606216977919">
+    <state width="1636" height="126" key="GridCell.Tab.0.bottom" timestamp="1606318730926">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977919" />
-    <state width="1636" height="288" key="GridCell.Tab.0.center" timestamp="1606216977917">
+    <state width="1636" height="126" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606318730926" />
+    <state width="1636" height="126" key="GridCell.Tab.0.center" timestamp="1606318730924">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977917" />
-    <state width="1636" height="288" key="GridCell.Tab.0.left" timestamp="1606216977916">
+    <state width="1636" height="126" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606318730924" />
+    <state width="1636" height="126" key="GridCell.Tab.0.left" timestamp="1606318730924">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977916" />
-    <state width="1636" height="288" key="GridCell.Tab.0.right" timestamp="1606216977918">
+    <state width="1636" height="126" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606318730924" />
+    <state width="1636" height="126" key="GridCell.Tab.0.right" timestamp="1606318730925">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977918" />
+    <state width="1636" height="126" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606318730925" />
+    <state x="973" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1607824527869">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="973" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1607824527869" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1606216363258">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

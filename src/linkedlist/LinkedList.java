@@ -1,5 +1,20 @@
 package linkedlist;
 
+//**
+
+/**
+ *
+ * 1. Fork the repo
+ * 2. Download in the local machine
+ * 3. Open in IDE --
+ * 4. Make changes in your local
+ * 5. Raise a pull request
+ *
+ *
+ *
+ *
+ */
+
 public class LinkedList {
 
   // 1-->2-->3--->4 --->null
@@ -75,6 +90,11 @@ public class LinkedList {
   }
 
   public static ListNode delete(ListNode head , int k){
+    // TODO : Please implement this method
+    return head ; // change this line accordingly
+  }
+
+  public static ListNode update(ListNode head , int k , int data){
     // TODO : Please implement this method
     return head ; // change this line accordingly
   }
